@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [All about trees](#all-about-trees)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
