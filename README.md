@@ -1,10 +1,10 @@
-# Name of project
+# All about trees
 
-> A longer description
+> This project is about trees and the importance of trees.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [All about trees](#all-about-trees)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -22,7 +22,15 @@
 
 ## General info
 
-> A short description
+> Trees, the majestic giants of the plant kingdom, stand as silent sentinels of
+> nature's grace. With their sturdy trunks and verdant canopies, they offer
+> shelter to countless creatures and contribute to the oxygen we breathe. From
+> the delicate blossoms of cherry trees to the towering strength of oak, each
+> species brings a unique charm to the landscape. Trees play a vital role in
+> maintaining ecological balance, preventing soil erosion, and providing shade
+> in the heat of summer. Their leaves whisper in the breeze, telling stories of
+> seasons gone by. In every forest, trees form a resilient community, showcasing
+> the beauty of life rooted firmly in the earth.
 
 ## Screenshots
 
@@ -30,10 +38,9 @@
 
 ## Technologies
 
-- Node 14.16.0
 - VSC code
-- JavaScript
-- ...
+- HTML
+- CSS
 - ...
 
 ## Setup
