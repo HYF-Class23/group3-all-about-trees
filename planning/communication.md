@@ -2,15 +2,20 @@
 
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
+- Has meeting discussions every day at evening at 6 pm
+- Try yourself for 15 minutes then ask your college
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day |  How  | The topic of discussion |
+| --- | :---: | ----------------------- |
+| M   | SLACK | LET'S DO PLANNING       |
+| T   | SLACK | TALK ABOUT PROJECT      |
+| W   | SLACK | TALK ABOUT PROJECT      |
+| T   | SLACK | TALK ABOUT PROJECT      |
+| F   | SLACK | TALK ABOUT PROJECT      |
 
 ## Communication Channels
 
@@ -28,17 +33,20 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day     | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| ------- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| ERNESTO | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| FELIX   | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| KING    | 18 - 20 | 18 - 20 |  18 - 20  | 18 - 20  | 18 - 20 | 18 - 20  | 18 - 20 |
+| VAULA   | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- ERNESTO: 5h; extra comments? All the wednesday has Dutch class in the morning
+- FELIX: 5H;
+- KING: 5h;
+- VAULA: 5h;
+- name: 5h;
 
 ## Asking for Help
 
