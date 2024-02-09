@@ -1,4 +1,3 @@
-
 # Design
 
 ## Project's design overview
@@ -73,6 +72,5 @@ and changing circumstances to ensure long-term success.
 ---
 
 ## Wireframes
-
 
 ![design](des.jpg)
