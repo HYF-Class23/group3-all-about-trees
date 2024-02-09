@@ -33,16 +33,19 @@ h1 {
   20%,
   60%,
   100% {
+    /* stylelint-disable-next-line property-no-vendor-prefix */
     -webkit-transform: translateY(0);
     transform: translateY(0);
   }
 
   40% {
+    /* stylelint-disable-next-line property-no-vendor-prefix */
     -webkit-transform: translateY(-20px);
     transform: translateY(-20px);
   }
 
   80% {
+    /* stylelint-disable-next-line property-no-vendor-prefix */
     -webkit-transform: translateY(-10px);
     transform: translateY(-10px);
   }
