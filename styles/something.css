@@ -48,7 +48,7 @@ h1 {
   }
 }
 
-/*Project goal*/
+/* Project goal */
 .goal {
   text-align: center;
   font-size: 1.3rem;
@@ -57,7 +57,7 @@ h1 {
 
 /* Nav links  */
 .bottom-divider {
-  border-style: none none solid none;
+  border-style: none none solid;
 }
 
 .spaced-items {
@@ -99,5 +99,5 @@ li {
 
 /* Social media  */
 .top-divider {
-  border-style: solid none none none;
+  border-style: solid none none;
 }
