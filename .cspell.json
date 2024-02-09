@@ -14,8 +14,7 @@
     "Christiaan",
     "Verwijs",
     "Todos",
-    "wireframe",
-    "VAULA"
+    "wireframe"
   ],
   "ignorePaths": [
     "node_modules/**",
