@@ -18,7 +18,8 @@
     "Wireframes",
     "Yodiz",
     "Zepel",
-    "Vaula"
+    "Vaula",
+    "stylelint"
   ],
   "ignorePaths": [
     "node_modules/**",
