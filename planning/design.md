@@ -74,4 +74,3 @@ and changing circumstances to ensure long-term success.
 ## Wireframes
 
 ![design](des.jpg)
-
