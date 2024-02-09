@@ -34,7 +34,7 @@
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./planning/screenshot.png)
 
 ## Technologies
 
